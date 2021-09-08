@@ -1,3 +1,4 @@
-# Website-Sederhana-HTML/CSS
+# Website Sederhana
 Website sederhana yang di bangun menggunakan HTML &amp; CSS
-By Andre Kusuma Firmansah
+## Created by
+Andre Kusuma Firmansah
